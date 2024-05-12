@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **about Generative Ai and Data**
 
-- 👨‍💻 All of my projects are available at [Here on github](Here on github)
+- 👨‍💻 All of my projects are available at [github Here](https://github.com/es-OmarHani?tab=repositories)
 
 - 📫 How to reach me **es-OmarHani2024@alexu.edu.eg**
 
