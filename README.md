@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Omar Hani</h1>
-<h3 align="center">"AI Engineer and Data Scientist: Navigating the Frontiers of Machine Learning, Deep Learning, Data Science and Data Engineering "</h3>
+<h3 align="center">"AI Engineer and Data Engineer: Navigating the Frontiers of Machine Learning, Deep Learning, Data Science and Data Engineering "</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=es-omarhani&label=Profile%20views&color=0e75b6&style=flat" alt="es-omarhani" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=es-omarhani" alt="es-omarhani" /></a> </p>
 
-- 🌱 I’m currently learning **about Generative Ai and Data**
+- 🌱 I’m currently learning **about Data Engineer**
 
 - 👨‍💻 All of my projects are available at [github Here](https://github.com/es-OmarHani?tab=repositories)
 
