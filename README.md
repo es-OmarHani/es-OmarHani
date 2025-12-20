@@ -6,9 +6,14 @@
 🤖 Background in AI, Machine Learning, Deep Learning, and Computer Vision<br/>
 ☁️ Experienced with modern cloud platforms, CI/CD, and containerization (Docker)<br/>
 🛠️ Always learning new tools and exploring challenging problems in data engineering and analytics<br/>
+🛠️ Motivated to learn new tools and solve challenging data engineering problems.<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=es-OmarHani&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+<!-- Top languages -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=es-OmarHani&layout=compact&theme=radical)
+
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
