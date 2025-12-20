@@ -6,7 +6,6 @@
 🤖 Background in AI, Machine Learning, Deep Learning, and Computer Vision<br/>
 ☁️ Experienced with modern cloud platforms, CI/CD, and containerization (Docker)<br/>
 🛠️ Always learning new tools and exploring challenging problems in data engineering and analytics<br/>
-🛠️ Motivated to learn new tools and solve challenging data engineering problems.<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=es-OmarHani&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -30,14 +29,16 @@
 ![SSIS](https://img.shields.io/badge/SSIS-0078D7?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SSAS](https://img.shields.io/badge/SSAS-0078D7?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SSRS](https://img.shields.io/badge/SSRS-0078D7?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)<br/>
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 # 📈 My Focus Areas
-- Designing **batch & streaming pipelines** with Spark, Kafka, and dbt  
-- Implementing **CDC pipelines** with Debezium  
-- Building **data warehouses and ETL solutions** using Postgres, SSIS, SSAS, SSRS  
+- Designing **batch & streaming pipelines** 
+- Implementing **CDC pipelines** On Databases  
+- Building **data warehouses and ETL solutions**   
 - Ensuring **data quality** with testing & validation frameworks  
 - Data analysis & visualization using **Power BI**  
 - Machine Learning, Deep Learning, and Computer Vision projects  
