@@ -1,31 +1,47 @@
+<!-- Level 3: Add custom code -->
 
-<h1 align="center">Hi 👋, I'm Omar Hani</h1>
-<h3 align="center">"AI Engineer and Data Engineer: Navigating the Frontiers of Machine Learning, Deep Learning, Data Science and Data Engineering "</h3>
+# 👋 Hi, I'm Omar Elshanawany!
+💻 Data Engineer passionate about building scalable and reliable data pipelines<br/>
+📊 Skilled in batch & streaming pipelines, data quality, and visualization<br/>
+🤖 Background in AI, Machine Learning, Deep Learning, and Computer Vision<br/>
+☁️ Experienced with modern cloud platforms, CI/CD, and containerization (Docker)<br/>
+🛠️ Always learning new tools and exploring challenging problems in data engineering and analytics<br/>
 
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=es-omarhani&label=Profile%20views&color=0e75b6&style=flat" alt="es-omarhani" /> </p>
+# 💻 Tech Stack
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF6600?style=for-the-badge&logo=dbt&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Debezium](https://img.shields.io/badge/Debezium-DB4437?style=for-the-badge&logo=debezium&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-0078D7?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SSAS](https://img.shields.io/badge/SSAS-0078D7?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SSRS](https://img.shields.io/badge/SSRS-0078D7?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)<br/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=es-omarhani" alt="es-omarhani" /></a> </p>
+# 📈 My Focus Areas
+- Designing **batch & streaming pipelines** with Spark, Kafka, and dbt  
+- Implementing **CDC pipelines** with Debezium  
+- Building **data warehouses and ETL solutions** using Postgres, SSIS, SSAS, SSRS  
+- Ensuring **data quality** with testing & validation frameworks  
+- Data analysis & visualization using **Power BI**  
+- Machine Learning, Deep Learning, and Computer Vision projects  
 
-- 🌱 I’m currently learning **about Data Engineer**
+# 🌱 Always Learning
+- Cloud platforms & CI/CD automation  
+- Advanced data modeling and analytics  
+- AI/ML pipelines and production-ready ML systems  
 
-- 👨‍💻 All of my projects are available at [github Here](https://github.com/es-OmarHani?tab=repositories)
+---
 
-- 📫 How to reach me **es-OmarHani2024@alexu.edu.eg**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pCcs83YPFJbnGJ5O-cUSwWH_ldFYkhFi/view?usp=sharing](https://drive.google.com/file/d/1pCcs83YPFJbnGJ5O-cUSwWH_ldFYkhFi/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/omar-hani-110bb3241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-hani-110bb3241/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/omar.hany.165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/omar.hany.165/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=es-omarhani&show_icons=true&locale=en&layout=compact" alt="es-omarhani" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=es-omarhani&show_icons=true&locale=en" alt="es-omarhani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=es-omarhani&" alt="es-omarhani" /></p>
+💡 Fun fact: I enjoy bridging the gap between **data engineering** and **AI/ML**, bringing intelligence to data pipelines.
