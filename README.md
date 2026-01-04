@@ -14,8 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=es-OmarHani&layout=compact&theme=radical)
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/FB6t6ObYbL?theme=dark&font=Noto%20Sans%20Gunjala%20Gondi&ext=activity)
-
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -36,6 +34,9 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/FB6t6ObYbL?theme=dark&font=Noto%20Sans%20Gunjala%20Gondi&ext=activity)
 
 # 📈 My Focus Areas
 - Designing **batch & streaming pipelines** 
