@@ -9,7 +9,6 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=es-OmarHani&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 <!-- Top languages -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=es-OmarHani&layout=compact&theme=radical)
 
@@ -36,7 +35,7 @@
 
 # 🏆 LeetCode Stats
 <!-- LeetCode stats using username for clarity -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/omarhany?theme=dark&font=Noto%20Sans%20Gunjala%20Gondi&ext=activity)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/FB6t6ObYbL?theme=dark&font=Noto%20Sans%20Gunjala%20Gondi&ext=activity)
 
 
 # 📈 My Focus Areas
