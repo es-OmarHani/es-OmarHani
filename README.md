@@ -14,6 +14,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=es-OmarHani&layout=compact&theme=radical)
 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/FB6t6ObYbL?theme=dark&font=Noto%20Sans%20Gunjala%20Gondi&ext=activity)
+
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
